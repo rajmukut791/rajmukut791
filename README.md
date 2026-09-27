@@ -39,3 +39,50 @@ const rajMukut = {
     currentlyLearning: "Advanced Full-Stack Development",
     goal: "Build powerful applications that solve real-world problems"
 };
+---
+
+<h2 align="center">⚡ Tech Stack & Tools</h2>
+
+<div align="center">
+
+### 💻 Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind&theme=dark" />
+
+### ⚙️ Backend
+
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express&theme=dark" />
+
+### 🗄️ Database
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
+
+### 🛠️ Development Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,composer&theme=dark" />
+
+</div>
+
+---
+
+<h2 align="center">🔥 What I Do</h2>
+
+<div align="center">
+
+| 🌐 Full-Stack Development | 🔐 Secure Applications |
+|:---:|:---:|
+| Modern frontend + powerful backend | Authentication & role-based systems |
+| **🗄️ Database Architecture** | **⚡ REST API Development** |
+| MySQL & MongoDB database design | Scalable API integration |
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 💡 My Development Philosophy
+
+> **"Build clean. Build secure. Build something that matters."**
+
+</div>
