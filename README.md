@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./github-banner.png" width="100%" alt="Raj Mukut - Full Stack Developer"/>
+</p>
+
+<br/>
 <div align="center">
 
 # 👋 Hi, I'm Raj Mukut
