@@ -26,26 +26,6 @@
 
 </div>
 
----
-
-<div align="center">
-
-# ◈ DEVELOPER_IDENTITY
-
-```text
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║                        R A J   M U K U T                         ║
-║                                                                  ║
-║                  FULL-STACK WEB DEVELOPER                        ║
-║                                                                  ║
-║            DESIGN  •  DEVELOP  •  SECURE  •  SCALE              ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
 <table>
 <tr>
 <td width="55%" valign="top">
