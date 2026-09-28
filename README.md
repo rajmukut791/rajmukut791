@@ -488,19 +488,6 @@ alt="Connect Animation"
 />
 
 <br/>
-
-```text
-╭──────────────────────────────────────────────────────────╮
-│                                                          │
-│                  R A J   M U K U T                       │
-│                                                          │
-│              FULL-STACK DEVELOPER                        │
-│                                                          │
-│             DHAKA • BANGLADESH 🇧🇩                       │
-│                                                          │
-╰──────────────────────────────────────────────────────────╯
-```
-
 ### `CODE`　→　`BUILD`　→　`LEARN`　→　`EVOLVE`
 
 <br/>
