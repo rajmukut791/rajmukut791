@@ -29,8 +29,8 @@ alt="Raj Mukut Developer Animation"
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=rajmukut791&label=PROFILE%20VIEWS&style=flat-square&color=00B8D4"/>
-<img src="https://img.shields.io/github/followers/rajmukut791?label=FOLLOWERS&style=flat-square&color=8B5CF6"/>
+<img src="https://komarev.com/ghpvc/?username=rajmukut1628&label=PROFILE%20VIEWS&style=flat-square&color=00B8D4"/>
+<img src="https://img.shields.io/github/followers/rajmukut1628?label=FOLLOWERS&style=flat-square&color=8B5CF6"/>
 
 <br/><br/>
 
@@ -128,7 +128,7 @@ STATUS:
 
 <br/>
 
-<!-- ========================= TECHNOLOGY ========================= -->
+<!-- ========================= TECH ========================= -->
 
 <div align="center">
 
@@ -339,22 +339,22 @@ Structured symptom-to-prediction workflow.
 
 ## `◉ LIVE_DEVELOPER_TELEMETRY`
 
-### `GITHUB // RAJMUKUT791`
+### `GITHUB // RAJMUKUT1628`
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rajmukut791&show_icons=true&theme=tokyonight&hide_border=true&border_radius=18&include_all_commits=true&count_private=true&rank_icon=github"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rajmukut1628&show_icons=true&theme=tokyonight&hide_border=true&border_radius=18&include_all_commits=true&count_private=true&rank_icon=github"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajmukut791&layout=compact&theme=tokyonight&hide_border=true&border_radius=18&langs_count=8"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajmukut1628&layout=compact&theme=tokyonight&hide_border=true&border_radius=18&langs_count=8"/>
 
 <br/><br/>
 
-<img width="65%" src="https://streak-stats.demolab.com?user=rajmukut791&theme=tokyonight&hide_border=true&border_radius=18"/>
+<img width="65%" src="https://streak-stats.demolab.com?user=rajmukut1628&theme=tokyonight&hide_border=true&border_radius=18"/>
 
 <br/><br/>
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=rajmukut791&theme=tokyo-night&hide_border=true&radius=18&area=true&custom_title=RAJ%20MUKUT%20%2F%2F%20DEVELOPMENT%20SIGNAL"
+src="https://github-readme-activity-graph.vercel.app/graph?username=rajmukut1628&theme=tokyo-night&hide_border=true&radius=18&area=true&custom_title=RAJ%20MUKUT%20%2F%2F%20DEVELOPMENT%20SIGNAL"
 width="100%"
 alt="Contribution Activity"
 />
@@ -363,7 +363,7 @@ alt="Contribution Activity"
 
 <br/>
 
-<!-- ========================= 3D CONTRIBUTION ========================= -->
+<!-- ========================= 3D ========================= -->
 
 <div align="center">
 
@@ -400,7 +400,7 @@ alt="Raj Mukut 3D Contribution Graph"
 
 <br/>
 
-<!-- ========================= FOCUS ========================= -->
+<!-- ========================= CURRENT ========================= -->
 
 <div align="center">
 
@@ -488,6 +488,19 @@ alt="Connect Animation"
 />
 
 <br/>
+
+```text
+╭──────────────────────────────────────────────────────────╮
+│                                                          │
+│                  R A J   M U K U T                       │
+│                                                          │
+│              FULL-STACK DEVELOPER                        │
+│                                                          │
+│             DHAKA • BANGLADESH 🇧🇩                       │
+│                                                          │
+╰──────────────────────────────────────────────────────────╯
+```
+
 ### `CODE`　→　`BUILD`　→　`LEARN`　→　`EVOLVE`
 
 <br/>
