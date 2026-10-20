@@ -1,76 +1,72 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,100:172554&height=190&text=RAJ%20MUKUT&fontSize=48&fontColor=F8FAFC&fontAlignY=42&desc=FULL-STACK%20DEVELOPER%20%20%7C%20%20DHAKA,%20BANGLADESH&descSize=13&descAlignY=66" width="100%" alt="Raj Mukut — Full-Stack Developer" />
+<img src="./github_banner.png" width="100%" alt="Raj Mukut — Full-Stack Developer" />
+
+<br /><br />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2600&pause=1100&color=60A5FA&center=true&vCenter=true&width=760&height=60&lines=CRAFTING+DIGITAL+EXPERIENCES;MERN+STACK+%C3%97+LARAVEL;FROM+FIRST+IDEA+TO+FINAL+PRODUCT" width="100%" alt="Crafting digital experiences with MERN and Laravel" />
+
+**FULL-STACK DEVELOPER**
+
+Dhaka, Bangladesh &nbsp; / &nbsp; CSE Graduate
 
 <br />
 
-**Thoughtful interfaces. Reliable backends. Useful software.**
+<a href="https://github.com/rajmukut1628?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE_PROJECTS-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects" />
+</a>
+&nbsp;
+<a href="https://github.com/rajmukut1628">
+<img src="https://img.shields.io/badge/CONNECT_WITH_ME-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Connect on GitHub" />
+</a>
 
-Building web applications with Laravel, React and Node.js.
+<br /><br />
 
-<br />
-
-<a href="https://github.com/rajmukut1628"><img src="https://img.shields.io/badge/GitHub-View_Profile-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
-<a href="https://github.com/rajmukut1628?tab=repositories"><img src="https://img.shields.io/badge/Explore-Projects-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects" /></a>
+<sub>Clean interfaces &nbsp; · &nbsp; Reliable systems &nbsp; · &nbsp; Practical solutions</sub>
 
 </div>
 
 <br />
 
-### About
-
-Full-Stack Developer and **CSE graduate from Northern University Bangladesh**. I turn ideas into practical web applications, with a focus on backend development, authentication and database design.
-
-<br />
-
-### Tech Stack
-
-<p>
-<img src="https://skillicons.dev/icons?i=laravel,php,react,js,tailwind,nodejs,express,mysql,mongodb,git&theme=dark&perline=10" alt="Laravel, PHP, React, JavaScript, Tailwind CSS, Node.js, Express, MySQL, MongoDB and Git" />
-</p>
-
-<br />
-
-### Selected Work
+## Selected Work
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td colspan="2" valign="top">
 
-#### University Connect
+<sub>01 &nbsp; / &nbsp; FEATURED PROJECT</sub>
 
-Community platform connecting students, alumni and mentors through newsfeeds, messaging and opportunities.
+### 🎓 NUB Connect
 
-<img src="https://img.shields.io/badge/Laravel-MySQL-1E293B?style=flat-square&labelColor=0F172A" alt="Laravel and MySQL" />
+**One community. More connections.**
 
-</td>
-<td width="50%" valign="top">
+A university platform connecting students, alumni and mentors.
 
-#### Nirbhoy Bangladesh
-
-Public reporting platform with evidence management, report tracking and administrative verification.
-
-<img src="https://img.shields.io/badge/Laravel-Livewire-1E293B?style=flat-square&labelColor=0F172A" alt="Laravel and Livewire" />
+`MongoDB` &nbsp; `Express.js` &nbsp; `React` &nbsp; `Node.js`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-#### MedhBook
+<sub>02 &nbsp; / &nbsp; PUBLIC REPORTING</sub>
 
-Healthcare platform for appointments, doctor profiles and secure access to medical records.
+### 🛡️ Nirbhoy Bangladesh
 
-<img src="https://img.shields.io/badge/React-Node.js-1E293B?style=flat-square&labelColor=0F172A" alt="React and Node.js" />
+Evidence management, report tracking and verification.
+
+`Laravel` &nbsp; `Livewire` &nbsp; `MySQL`
 
 </td>
 <td width="50%" valign="top">
 
-#### Developer Portfolio
+<sub>03 &nbsp; / &nbsp; HEALTHCARE</sub>
 
-Personal portfolio showcasing projects, with an administration panel to manage content.
+### 🩺 MedhBook
 
-<img src="https://img.shields.io/badge/Laravel-PHP-1E293B?style=flat-square&labelColor=0F172A" alt="Laravel and PHP" />
+Appointments and secure medical record access.
+
+`React` &nbsp; `Node.js` &nbsp; `MongoDB`
 
 </td>
 </tr>
@@ -80,10 +76,28 @@ Personal portfolio showcasing projects, with an administration panel to manage c
 
 <div align="center">
 
+## Tools Behind the Work
+
+<br />
+
+<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs&theme=dark&perline=4" alt="MERN stack: MongoDB, Express, React and Node.js" />
+
+<br /><br />
+
+<img src="https://skillicons.dev/icons?i=laravel,php,js,tailwind,mysql,git&theme=dark&perline=6" alt="Laravel, PHP, JavaScript, Tailwind CSS, MySQL and Git" />
+
+<br /><br />
+
 ---
 
-**Have something useful in mind? Let's build it.**
+<br />
 
-Open to collaboration · [Find me on GitHub](https://github.com/rajmukut1628)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2500&pause=1300&color=60A5FA&center=true&vCenter=true&width=700&height=45&lines=Great+products+start+with+a+conversation.;Have+an+idea%3F+Let's+build+it.;Open+to+collaboration." width="100%" alt="Have an idea? Let's build it. Open to collaboration." />
+
+[**Explore my repositories ↗**](https://github.com/rajmukut1628?tab=repositories)
+
+<br />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,50:1E3A8A,100:3B82F6&height=130&section=footer&text=BUILD.%20REFINE.%20REPEAT.&fontSize=17&fontColor=FFFFFF&fontAlignY=78&animation=twinkling" width="100%" alt="Build. Refine. Repeat." />
 
 </div>
