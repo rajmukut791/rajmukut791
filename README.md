@@ -12,11 +12,11 @@ Dhaka, Bangladesh &nbsp; / &nbsp; CSE Graduate
 
 <br />
 
-<a href="https://github.com/rajmukut1628?tab=repositories">
+<a href="https://github.com/rajmukut791?tab=repositories">
 <img src="https://img.shields.io/badge/EXPLORE_PROJECTS-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects" />
 </a>
 &nbsp;
-<a href="https://github.com/rajmukut1628">
+<a href="https://github.com/rajmukut791">
 <img src="https://img.shields.io/badge/CONNECT_WITH_ME-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Connect on GitHub" />
 </a>
 
@@ -94,7 +94,7 @@ Appointments and secure medical record access.
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2500&pause=1300&color=60A5FA&center=true&vCenter=true&width=700&height=45&lines=Great+products+start+with+a+conversation.;Have+an+idea%3F+Let's+build+it.;Open+to+collaboration." width="100%" alt="Have an idea? Let's build it. Open to collaboration." />
 
-[**Explore my repositories ↗**](https://github.com/rajmukut1628?tab=repositories)
+[**Explore my repositories ↗**](https://github.com/rajmukut791?tab=repositories)
 
 <br />
 
