@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./github_banner.png" width="100%" alt="Raj Mukut — Full-Stack Developer" />
+<img src="./github-banner.png" width="100%" alt="Raj Mukut — Full-Stack Developer" />
 
 <br /><br />
 
